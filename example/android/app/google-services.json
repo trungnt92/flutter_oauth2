@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "899274430707",
+    "project_id": "aoflutteroauth",
+    "storage_bucket": "aoflutteroauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899274430707:android:5f3b13727bf4a7832ebf86",
+        "android_client_info": {
+          "package_name": "com.oauth.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899274430707-v1ck087qsf4h4a2f11t63i4q1b62i64r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oauth.example",
+            "certificate_hash": "c3e65343194c67b1c9f2ceafdfbc05813676cd3d"
+          }
+        },
+        {
+          "client_id": "899274430707-l02udn90rj07ub7md8rb3vsc5dv5hlnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNCVCsdM6LvkM8451938VVHud06kOE9SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899274430707-l02udn90rj07ub7md8rb3vsc5dv5hlnb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "899274430707-a5e22bm2i3n538an27dhihojcm2l205q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oauth.example"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
